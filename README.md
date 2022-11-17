@@ -5,7 +5,7 @@ I am a pupil from China.
 I was lucky to have access to github, which is a big platform for my technology to develop here.
 I hope to work with more developers in the github community.
 Thanks.
-form DavidJacksonnoss
+form David
 
 @Provided by Baidu Translation
 Note: My English is not good
